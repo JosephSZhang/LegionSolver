@@ -57,8 +57,8 @@ const defaultPieces = [
 
     // Lvl 250 Warrior
     [
-        [1, 1, 2],
-        [0, 1, 1]
+        [0, 1, 2],
+        [1, 1, 1]
     ],
 
     // Lvl 250 Archer
