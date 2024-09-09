@@ -1,2 +1,1 @@
-https://xenogents.github.io/LegionSolver/
-test
+https://josephszhang.github.io/LegionSolver/
